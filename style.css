@@ -10,8 +10,19 @@ div.自分 {border:2px solid pink; width: 90%; background-color: rgba(0, 50, 200
 
 div.子1 {border:2px solid aqua; width: 90%; background-color: rgba(0, 150, 150, 0.3); }
 
-div.子2 {border:2px solid lime; width: 65%; position: relative; }
-div.子2 .sns1 img {border:2px solid orange; position: absolute; width: 45%; }
+.box13 img {
+  border:2px solid pink;
+   margin-top: 20px;
+　 margin-left: 45px;
+  width: 25%;  
+　position:relative; 
+}
+
+.box13 .sns1 {
+ margin-top: 20px;
+ margin-left: 45px;
+　position:relative;
+}
 
 div.弟1 {border:2px solid blue; width: 90%; background-color: rgba(100, 200, 0, 0.3); }
 
