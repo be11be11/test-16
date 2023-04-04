@@ -1,0 +1,17 @@
+@charset "UTF-8";
+  
+div.親 {border:2px solid red; width: 90%; background-color: rgba(50, 50, 10, 0.1); }
+
+div.兄1 {border:2px solid red; width: 90%; background-color: rgba(0, 50, 150, 0.1); }
+
+div.兄2 {border:2px solid red; width: 90%; background-color: rgba(50, 200, 10, 0.1); }
+
+div.自分 {border:2px solid red; width: 90%; background-color: rgba(50, 50, 10, 0.1); }
+
+div.子1 {border:2px solid red; width: 90%; background-color: rgba(0, 50, 150, 0.1); }
+
+div.子2 {border:2px solid red; width: 90%; background-color: rgba(50, 50, 10, 0.1); }
+
+div.弟1 {border:2px solid red; width: 90%; background-color: rgba(50, 50, 10, 0.1); }
+
+div.弟2 {border:2px solid red; width: 90%; background-color: rgba(0, 50, 150, 0.1); }
