@@ -2,16 +2,16 @@
   
 div.親 {border:2px solid red; width: 90%; background-color: rgba(200, 0, 50, 0.3); }
 
-div.兄1 {border:2px solid red; width: 90%; background-color: rgba(0, 200, 150, 0.3); }
+div.兄1 {border:2px solid lime; width: 90%; background-color: rgba(0, 200, 150, 0.3); }
 
-div.兄2 {border:2px solid red; width: 90%; background-color: rgba(0, 200, 50, 0.3); }
+div.兄2 {border:2px solid blue; width: 90%; background-color: rgba(0, 200, 50, 0.3); }
 
-div.自分 {border:2px solid red; width: 90%; background-color: rgba(0, 50, 200, 0.3); }
+div.自分 {border:2px solid pink; width: 90%; background-color: rgba(0, 50, 200, 0.3); }
 
-div.子1 {border:2px solid red; width: 90%; background-color: rgba(0, 150, 150, 0.3); }
+div.子1 {border:2px solid aqua; width: 90%; background-color: rgba(0, 150, 150, 0.3); }
 
-div.子2 {border:2px solid red; width: 90%; background-color: rgba(0, 150, 50, 0.3); }
+div.子2 {border:2px solid lime; width: 90%; background-color: rgba(0, 150, 50, 0.3); }
 
-div.弟1 {border:2px solid red; width: 90%; background-color: rgba(100, 200, 0, 0.3); }
+div.弟1 {border:2px solid blue; width: 90%; background-color: rgba(100, 200, 0, 0.3); }
 
-div.弟2 {border:2px solid red; width: 90%; background-color: rgba(100, 150, 0, 0.3); }
+div.弟2 {border:2px solid pink; width: 90%; background-color: rgba(100, 150, 0, 0.3); }
