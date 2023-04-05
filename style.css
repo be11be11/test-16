@@ -20,11 +20,8 @@ div.子1 {border:2px solid green; width: 90%; background-color: rgba(0, 150, 150
 }
 
 .box13 .sns1 {
- border:2px solid lime;
- background-color: rgba(50, 150, 0, 0.2);
- margin-top: 20px;
- margin-left: 45px;
-　position:relative;
+ border:2px solid pink;
+ background-color: rgba(0, 200, 50, 0.2);
 }
 
 div.弟1 {border:2px solid blue; width: 90%; background-color: rgba(100, 200, 0, 0.3); }
