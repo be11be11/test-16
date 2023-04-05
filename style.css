@@ -8,10 +8,10 @@ div.兄2 {border:2px solid blue; width: 90%; background-color: rgba(0, 200, 50, 
 
 div.自分 {border:2px solid pink; width: 90%; background-color: rgba(0, 50, 200, 0.3); }
 
-div.子1 {border:2px solid aqua; width: 90%; background-color: rgba(0, 150, 150, 0.3); }
+div.子1 {border:2px solid green; width: 90%; background-color: rgba(0, 150, 150, 0.3); }
 
 .box13 img {
-  border:2px solid pink;
+  border:2px solid aqua;
    margin-top: 20px;
 　 margin-left: 45px;
   width: 25%;  
@@ -19,6 +19,7 @@ div.子1 {border:2px solid aqua; width: 90%; background-color: rgba(0, 150, 150,
 }
 
 .box13 .sns1 {
+ border:2px solid lime;
  margin-top: 20px;
  margin-left: 45px;
 　position:relative;
