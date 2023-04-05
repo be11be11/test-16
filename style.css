@@ -10,18 +10,12 @@ div.自分 {border:2px solid red; width: 90%; background-color: rgba(0, 50, 200,
 
 div.子1 {border:2px solid green; width: 90%; background-color: rgba(0, 150, 150, 0.3); }
 
-.box13 img {
-  border:2px solid aqua;
-　background-color: rgba(150, 50, 0, 0.2);
-   margin-top: 20px;
-　 margin-left: 45px;
-  width: 25%;  
-　position:relative; 
-}
-
 .box13 .sns1 {
  border:2px solid pink;
  background-color: rgba(0, 200, 50, 0.2);
+ margin-top: 20px;
+ margin-left: 45px;
+ width: 25%;  
 }
 
 div.弟1 {border:2px solid blue; width: 90%; background-color: rgba(100, 200, 0, 0.3); }
