@@ -12,6 +12,7 @@ div.子1 {border:2px solid green; width: 90%; background-color: rgba(0, 150, 150
 
 .box13 img {
   border:2px solid aqua;
+　background-color: rgba(150, 50, 0, 0.2);
    margin-top: 20px;
 　 margin-left: 45px;
   width: 25%;  
@@ -20,6 +21,7 @@ div.子1 {border:2px solid green; width: 90%; background-color: rgba(0, 150, 150
 
 .box13 .sns1 {
  border:2px solid lime;
+ background-color: rgba(50, 150, 0, 0.2);
  margin-top: 20px;
  margin-left: 45px;
 　position:relative;
